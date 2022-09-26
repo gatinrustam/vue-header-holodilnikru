@@ -8,5 +8,5 @@ module.exports = defineConfig({
       }
     }
   },
-  publicPath: '/vue-header-holodilnikru/',
+  publicPath: '/vue-header-holodilnikru/dist/',
 })

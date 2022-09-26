@@ -21,6 +21,7 @@
         border: 1px solid $primary-blue;
         display: flex;
         overflow: hidden;
+        height: 45px;
     }
 
     &__input {
@@ -44,6 +45,11 @@
         outline: none;
         padding: 11px 28px 10px;
         cursor: pointer;
+        transition: $transition;
+
+        &:hover {
+        background-color: $primary-blue-hover;
+        }
     }
 
 }

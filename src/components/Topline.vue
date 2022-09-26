@@ -8,9 +8,12 @@
                     <li 
                         v-for="item in toplineMenu" 
                         class="topline__item"
-                        :class="{'topline__item--parent': item.hasChild}"
                     >
-                        <a class="topline__link" :href="item.url">
+                        <a 
+                            class="topline__link" 
+                            :class="{'topline__link--parent': item.hasChild}"
+                            :href="item.url"
+                        >
                             {{item.title}}
                         </a>
                     </li>
@@ -37,7 +40,7 @@ export default {
                 {title: 'Бизнесу', url: '#', hasChild: true, },
             ]
         }
-    }
+    },
 }
 </script>
 
@@ -52,7 +55,19 @@ export default {
     &__link {
         color: #464b51;
         text-decoration: none;
-        padding: 0 0 0 16px;
+        padding: 6px 16px;
+        border-radius: 6px;
+
+        &:hover {
+            background-color: #e3e7ea;
+        }
+
+        &--parent {
+            padding-right: 32px;
+            background-image: url('@/assets/arrow-down.svg');
+            background-position: right 12px center;
+            background-repeat: no-repeat;
+        }
     }
 
     &__inner {
@@ -80,21 +95,9 @@ export default {
 
     &__item {
         margin-right: 32px;
-        border-radius: 6px;
 
         &:last-child {
             margin-right: 0;
-        }
-
-        &:hover {
-            background-color: #e3e7ea;
-        }
-
-        &--parent {
-            padding-right: 32px;
-            background-image: url('@/assets/arrow-down.svg');
-            background-position: right 12px center;
-            background-repeat: no-repeat;
         }
     }
 
@@ -110,6 +113,12 @@ export default {
         background-image: url('@/assets/phone.svg');
         background-position: left center;
         background-repeat: no-repeat;
+
+        @media screen and (max-width: $max-tablet) {
+            & {
+                display: none;
+            }
+        }
     }
 
     &__phone {

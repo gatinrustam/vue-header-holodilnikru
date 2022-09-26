@@ -1,0 +1,128 @@
+[
+    {
+      "id": 1,
+      "title": "Смартфоны и гаджеты",
+      "url": "#",
+      "icon": "smartphone",
+      "childs": []
+    },
+    {
+      "id": 2,
+      "title": "Телевизоры",
+      "url": "#",
+      "icon": "tv",
+      "childs": []
+    },
+    {
+      "id": 3,
+      "title": "Аудио-видео",
+      "url": "#",
+      "icon": "audio",
+      "childs": []
+    },
+    {
+      "id": 4,
+      "title": "Компьютерная техника",
+      "url": "#",
+      "icon": "computers",
+      "childs": []
+    },
+    {
+      "id": 5,
+      "title": "Холодильники",
+      "url": "#",
+      "icon": "ref",
+      "childs": []
+    },
+    {
+      "id": 6,
+      "title": "Стиральные машины",
+      "url": "#",
+      "icon": "wash",
+      "childs": []
+    },
+    {
+      "id": 7,
+      "title": "Встраиваемая техника",
+      "url": "#",
+      "icon": "embedded",
+      "childs": []
+    },
+    {
+      "id": 8,
+      "title": "Посудомоечные машины",
+      "url": "#",
+      "icon": "diswash",
+      "childs": []
+    },
+    {
+      "id": 9,
+      "title": "Плиты",
+      "url": "#",
+      "icon": "stove",
+      "childs": []
+    },
+    {
+      "id": 10,
+      "title": "Техника для кухни",
+      "url": "#",
+      "icon": "kitchen",
+      "childs": []
+    },
+    {
+      "id": 11,
+      "title": "Техника для дома",
+      "url": "#",
+      "icon": "home",
+      "childs": []
+    },
+    {
+      "id": 12,
+      "title": "Красота и здоровье",
+      "url": "#",
+      "icon": "beauty",
+      "childs": []
+    },
+    {
+      "id": 13,
+      "title": "Климатическая техника",
+      "url": "#",
+      "icon": "air",
+      "childs": []
+    },
+    {
+      "id": 14,
+      "title": "Строительство и ремонт",
+      "url": "#",
+      "icon": "repair",
+      "childs": []
+    },
+    {
+      "id": 15,
+      "title": "Спорт и отдых",
+      "url": "#",
+      "icon": "sport",
+      "childs": []
+    },
+    {
+      "id": 16,
+      "title": "Детские товары",
+      "url": "#",
+      "icon": "kids",
+      "childs": []
+    },
+    {
+      "id": 17,
+      "title": "Товары для дома и сада",
+      "url": "#",
+      "icon": "garden",
+      "childs": []
+    },
+    {
+      "id": 18,
+      "title": "Умный дом",
+      "url": "#",
+      "icon": "smart",
+      "childs": []
+    }
+  ]

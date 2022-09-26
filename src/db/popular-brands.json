@@ -1,0 +1,65 @@
+[
+    {
+        "id": 1,
+        "title": "Samsung",
+        "logo": "samsung",
+        "description": "Indesit — итальянский бренд крупной бытовой техники, который принадлежит ",
+        "url": ""
+    },
+    {
+        "id": 2,
+        "title": "Samsung digital",
+        "logo": "samsung-digital",
+        "description": "Indesit — итальянский бренд крупной бытовой техники, который принадлежит ",
+        "url": ""
+    },
+    {
+        "id": 3,
+        "title": "Haier",
+        "logo": "haier",
+        "description": "Indesit — итальянский бренд крупной бытовой техники, который принадлежит ",
+        "url": ""
+    },
+    {
+        "id": 4,
+        "title": "LG",
+        "logo": "lg",
+        "description": "Indesit — итальянский бренд крупной бытовой техники, который принадлежит ",
+        "url": ""
+    },
+    {
+        "id": 5,
+        "title": "Hotpoint",
+        "logo": "hotpoint",
+        "description": "Indesit — итальянский бренд крупной бытовой техники, который принадлежит ",
+        "url": ""
+    },
+    {
+        "id": 6,
+        "title": "Indesit",
+        "logo": "indesit",
+        "description": "Indesit — итальянский бренд крупной бытовой техники, который принадлежит ",
+        "url": ""
+    },
+    {
+        "id": 7,
+        "title": "Electrolux",
+        "logo": "electrolux",
+        "description": "Indesit — итальянский бренд крупной бытовой техники, который принадлежит ",
+        "url": ""
+    },
+    {
+        "id": 8,
+        "title": "Bosch",
+        "logo": "bosch",
+        "description": "Indesit — итальянский бренд крупной бытовой техники, который принадлежит ",
+        "url": ""
+    },
+    {
+        "id": 9,
+        "title": "ZUGEL",
+        "logo": "zugel",
+        "description": "Indesit — итальянский бренд крупной бытовой техники, который принадлежит ",
+        "url": ""
+    }
+]

@@ -58,6 +58,10 @@ export default {
 
     &__text {
         text-align: center;
+
+        @media screen and (max-width: $max-mobile) {
+            display: none;
+        }
     }
 }
 </style>

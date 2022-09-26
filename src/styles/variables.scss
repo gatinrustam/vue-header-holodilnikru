@@ -1,3 +1,18 @@
-$primary-blue: #0595E6;
+$max-tablet: 1200px;
+$max-mobile: 1024px;
 
+/* colors */
+$text-color: #464b51;
+$text-color-links: #0595E6;
+$text-color-light: #7D858C;
+
+$primary-gray-bg: #eeeeee;
+$primary-blue: #0595E6;
+$primary-blue-hover: #0b83c6;
+
+/* elements */
 $primary-border: 1px solid #eeeeee;
+$transition: background 0.2s ease;
+
+/* media */
+$tablet-width: screen and (max-width: $max-tablet);
